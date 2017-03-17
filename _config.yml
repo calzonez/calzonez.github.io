@@ -16,7 +16,7 @@
 title: Renaissance Innovation Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Join our community for better data sharing and collaboration
+  Built for data scientists. Share your data wrangling work with other data scientists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rilab
